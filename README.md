@@ -1,0 +1,2 @@
+# FastApi_ChatBot
+用Fastapi搭建的一个简单的AI应用Demo
